@@ -1,0 +1,1 @@
+This is a MERN Stack Application where users can join in a meet and stream their fav Videos.
